@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @jeffcalado
-- 👀 I’m interested in CD and CI...
-- 🌱 I’m currently learning Azure and Angular
-- 💞️ I’m looking to collaborate on ASP .NET
+
